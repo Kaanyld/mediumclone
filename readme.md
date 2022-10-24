@@ -1,3 +1,2 @@
-![gorsel][ss.JPG]
 
 
